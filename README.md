@@ -17,18 +17,20 @@ Using 10,000 travel records and 33 features, this project applies exploratory da
 **Tools Used: Excel | Statistics | Data Visualization | Dashboarding**
 
 # Dashboard Preview
+# Dashboard Screenshots
 
+📊 [Overview Dashboard](./Overview.png)
 ## Overview
-![Overview](./Overview.png)
 
+📊 [Customer Preference Analysis](./Customer%20Preference.png)
 ## Customer Preference
 ![Customer Preference](./Customer%20Preference.png)
-
+📊 [Customer Satisfaction](./Customer%20Satisfaction.png)
 ## Customer Satisfaction
 ![Customer Satisfaction](./Customer%20Satisfaction.png)
-
+📊 [Customer Satisfaction Dashboard](./Customer%20Satisfaction2.png)
 ## Customer Satisfaction Analysis
 ![Customer Satisfaction 2](./Customer%20Satisfaction2.png)
-
+📊 [Correlation Analysis](./Correlation.png)
 ## Correlation Analysis
 ![Correlation](./Correlation.png)
