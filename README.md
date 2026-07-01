@@ -20,6 +20,8 @@ Using 10,000 travel records and 33 features, this project applies exploratory da
 # Dashboard Screenshots
 
 📊 [Overview Dashboard](./Overview.png)
+[Overview Dashboard](./Overview2.png)
+
 ## Overview
 ![Overview](./Overview.png)
 ![Overview](./Overview2.png)
