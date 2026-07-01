@@ -21,7 +21,7 @@ Using 10,000 travel records and 33 features, this project applies exploratory da
 
 📊 [Overview Dashboard](./Overview.png)
 ## Overview
-[Overview Dashboard](./Overview.png)
+![Overview](./Overview.png)
 
 📊 [Customer Preference Analysis](./Customer%20Preference.png)
 ## Customer Preference
