@@ -14,4 +14,21 @@ Using 10,000 travel records and 33 features, this project applies exploratory da
 - Built interactive Excel dashboards and statistical visualizations
 - Generated insights through data storytelling and business interpretation
 
-**Tools Used: Excel | Statistics | Data Visualization | Exploratory Data Analysis (EDA) | Dashboarding**
+**Tools Used: Excel | Statistics | Data Visualization | Dashboarding**
+
+# Dashboard Preview
+
+## Overview
+![Overview](./Overview.png)
+
+## Customer Preference
+![Customer Preference](./Customer%20Preference.png)
+
+## Customer Satisfaction
+![Customer Satisfaction](./Customer%20Satisfaction.png)
+
+## Customer Satisfaction Analysis
+![Customer Satisfaction 2](./Customer%20Satisfaction2.png)
+
+## Correlation Analysis
+![Correlation](./Correlation.png)
